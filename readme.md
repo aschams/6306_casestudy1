@@ -2,7 +2,7 @@
 ### October 25th 2017
 
 ### Submitted by:
-* Lu Chent
+* Lu Cheng
 * Eric Balke
 * Anthony Schams
 * Travis Deason
